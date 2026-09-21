@@ -1,2 +1,2 @@
 # Deep Learning Assignment
-Deep learning-based credit card fraud detection using ANN architectures to classify transactions as legitimate or fraudulent. Includes data preprocessing, model training, evaluation, and performance comparison using classification metrics.
+Deep learning-based brain tumor classification using MRI images. This project implements and compares four deep learning architectures—Custom CNN, ResNet50, EfficientNet-B0, and DenseNet121—to classify MRI scans into four categories: Glioma, Meningioma, Pituitary Tumor, and No Tumor.
